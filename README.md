@@ -1,96 +1,62 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>P.M. Ngugi | Developer Portfolio</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f4f4f9;
-      margin: 0;
-      padding: 0;
-      color: #333;
-    }
-    header {
-      background-color: #1f2937;
-      color: white;
-      padding: 2rem;
-      text-align: center;
-    }
-    header img {
-      width: 120px;
-      border-radius: 50%;
-    }
-    main {
-      max-width: 900px;
-      margin: 2rem auto;
-      padding: 1rem;
-    }
-    section {
-      margin-bottom: 2rem;
-    }
-    h2 {
-      border-bottom: 2px solid #e5e7eb;
-      padding-bottom: 0.5rem;
-    }
-    ul {
-      list-style: none;
-      padding: 0;
-    }
-    li {
-      margin: 0.5rem 0;
-    }
-    a {
-      color: #1f2937;
-      text-decoration: none;
-    }
-    footer {
-      text-align: center;
-      padding: 1rem;
-      background-color: #e5e7eb;
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID" alt="P.M. Ngugi">
-    <h1>P.M. Ngugi</h1>
-    <p>Building across systems, security, and software — one commit at a time.</p>
-  </header>
-  <main>
-    <section>
-      <h2>Featured Projects</h2>
-      <ul>
-        <li><a href="https://github.com/P.M.-Ngugi/WebVuln">WebVuln</a> - A curated list of 100 web vulnerabilities with demos, testing tools, and mitigations.</li>
-        <li><a href="https://github.com/P.M.-Ngugi/GUI-in-Python">GUI-in-Python</a> - Python GUI apps using Tkinter and Jupyter.</li>
-        <li><a href="https://github.com/P.M.-Ngugi/ML_Cybersec">ML_Cybersec</a> - Applying ML in cybersecurity use-cases.</li>
-        <li><a href="https://github.com/P.M.-Ngugi/Python_Collections-">Python_Collections</a> - A personal Python knowledge base.</li>
-        <li><a href="https://github.com/P.M.-Ngugi/DS_Collections">DS_Collections</a> - Data science notebooks and projects.</li>
-      </ul>
-    </section>
+<!-- Optional Profile Image -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID" width="150" alt="P.M. Ngugi" style="border-radius: 50%;">
+</p>
 
-    <section>
-      <h2>Tech Stack</h2>
-      <ul>
-        <li>💻 Systems Programming (C, C++, Bash)</li>
-        <li>🛡️ Cybersecurity & Forensics</li>
-        <li>📊 Data Science, ML & AI</li>
-        <li>🖥️ Python GUIs (Tkinter, Jupyter, Zenity)</li>
-        <li>🌐 HTML, CSS, JS, React Native, .NET</li>
-      </ul>
-    </section>
+<h1 align="center">Hi, I'm P.M. Ngugi 👋</h1>
 
-    <section>
-      <h2>About Me</h2>
-      <p>
-        I'm a passionate engineer focused on security, automation, and building open tools.
-        From vulnerability research to full-stack dev and prompt engineering, I love digging deep into how systems work.
-      </p>
-    </section>
-  </main>
-  <footer>
-    <p>© 2025 P.M. Ngugi | <a href="https://github.com/P.M.-Ngugi">GitHub</a></p>
-  </footer>
-</body>
-</html>
+<p align="center">
+  <i>Building across systems, security, and software — one commit at a time.</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/P.M.-Ngugi">
+    <img src="https://img.shields.io/github/followers/P.M.-Ngugi?label=Follow&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/P.M.-Ngugi?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-20+-blue" alt="Repositories">
+  </a>
+</p>
+
+---
+
+## 🔧 Featured Repositories
+
+| 📁 Repository | 🔍 Description |
+|--------------|----------------|
+| [`WebVuln`](https://github.com/P.M.-Ngugi/WebVuln) | Documenting 100+ web vulnerabilities with testing tools and mitigations |
+| [`GUI-in-Python`](https://github.com/P.M.-Ngugi/GUI-in-Python) | Python GUI applications using Tkinter and Jupyter |
+| [`ML_Cybersec`](https://github.com/P.M.-Ngugi/ML_Cybersec) | Applying machine learning in cybersecurity use-cases |
+| [`Python_Collections`](https://github.com/P.M.-Ngugi/Python_Collections-) | A code-rich Python journal — "coding is a way of life" |
+| [`DS_Collections`](https://github.com/P.M.-Ngugi/DS_Collections) | Data science notebooks and analysis |
+
+---
+
+## 🧠 Interests & Stack
+
+- 🛡️ Cybersecurity | Web Vulnerability Research | Forensics  
+- ⚙️ Systems Programming (C, Bash, Shell)  
+- 🖥️ GUI and Desktop Apps (Tkinter, Jupyter, Zenity)  
+- 🤖 LLMs, Prompt Engineering, AI Tools  
+- 🌐 HTML, CSS, JavaScript, React Native, .NET, Kotlin  
+
+---
+
+## 🚀 Projects in Progress
+
+- ✅ `kwanzaLLM`: Prompt collections and LLM workflows  
+- 🚧 `TkCollections`: Desktop GUI utilities with Python  
+- 🔍 `Bash_scripts` + `zenity`: Visual Bash scripting tools  
+- 🧪 `Netmondash`: Lightweight HTML-based network monitor  
+
+---
+
+## 📫 Let's Connect
+
+- 🧰 GitHub: [@P.M.-Ngugi](https://github.com/P.M.-Ngugi)
+- 💬 Say hi or check out my work. I'm always up for a collab, a review, or building something secure and impactful.
+
+---
+
+> _"Code hard. Stay curious. Break things to understand them."_  
+> — **P.M. Ngugi**
