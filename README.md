@@ -1,50 +1,96 @@
-# P.M.-Ngugi-
-### Welcome to My Repo!
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>P.M. Ngugi | Developer Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f9;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    header {
+      background-color: #1f2937;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    header img {
+      width: 120px;
+      border-radius: 50%;
+    }
+    main {
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 1rem;
+    }
+    section {
+      margin-bottom: 2rem;
+    }
+    h2 {
+      border-bottom: 2px solid #e5e7eb;
+      padding-bottom: 0.5rem;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    li {
+      margin: 0.5rem 0;
+    }
+    a {
+      color: #1f2937;
+      text-decoration: none;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background-color: #e5e7eb;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID" alt="P.M. Ngugi">
+    <h1>P.M. Ngugi</h1>
+    <p>Building across systems, security, and software — one commit at a time.</p>
+  </header>
+  <main>
+    <section>
+      <h2>Featured Projects</h2>
+      <ul>
+        <li><a href="https://github.com/P.M.-Ngugi/WebVuln">WebVuln</a> - A curated list of 100 web vulnerabilities with demos, testing tools, and mitigations.</li>
+        <li><a href="https://github.com/P.M.-Ngugi/GUI-in-Python">GUI-in-Python</a> - Python GUI apps using Tkinter and Jupyter.</li>
+        <li><a href="https://github.com/P.M.-Ngugi/ML_Cybersec">ML_Cybersec</a> - Applying ML in cybersecurity use-cases.</li>
+        <li><a href="https://github.com/P.M.-Ngugi/Python_Collections-">Python_Collections</a> - A personal Python knowledge base.</li>
+        <li><a href="https://github.com/P.M.-Ngugi/DS_Collections">DS_Collections</a> - Data science notebooks and projects.</li>
+      </ul>
+    </section>
 
-# 👋 Hi, I'm P.M. Ngugi
+    <section>
+      <h2>Tech Stack</h2>
+      <ul>
+        <li>💻 Systems Programming (C, C++, Bash)</li>
+        <li>🛡️ Cybersecurity & Forensics</li>
+        <li>📊 Data Science, ML & AI</li>
+        <li>🖥️ Python GUIs (Tkinter, Jupyter, Zenity)</li>
+        <li>🌐 HTML, CSS, JS, React Native, .NET</li>
+      </ul>
+    </section>
 
-> _Building across systems, security, and software — one commit at a time._
-
-[![GitHub followers](https://img.shields.io/github/followers/P.M.-Ngugi?label=Follow&style=social)](https://github.com/P.M.-Ngugi)
-[![Repos](https://img.shields.io/badge/Public%20Repos-20+-blue)](https://github.com/P.M.-Ngugi?tab=repositories)
-[![License](https://img.shields.io/github/license/P.M.-Ngugi/WebVuln?style=flat-square)](https://github.com/P.M.-Ngugi/WebVuln/blob/main/LICENSE)
-
-Hi, I’m **P.M. Ngugi** — a curious engineer, security enthusiast, and programmer with a love for low-level systems, cyber forensics, and creating user-friendly tools. Whether I’m writing Bash scripts or exploring LLMs, I thrive on open-source learning and continuous improvement.
-
----
-
-## 🔧 Projects & Repositories
-
-### 📌 Key Highlights
-
-- 🛡️ [`WebVuln`](https://github.com/P.M.-Ngugi/WebVuln): A curated list of 100 web vulnerabilities with demos, testing tools, and mitigation strategies.
-- 🖥️ [`GUI-in-Python`](https://github.com/P.M.-Ngugi/GUI-in-Python): Python GUI apps and prototypes using Tkinter and Jupyter.
-- 📚 [`Python_Collections`](https://github.com/P.M.-Ngugi/Python_Collections-): A personal codebook — because coding is a way of life.
-- 🔐 [`ML_Cybersec`](https://github.com/P.M.-Ngugi/ML_Cybersec): Machine learning experiments applied to cybersecurity.
-- ⚙️ [`CnCpp`](https://github.com/P.M.-Ngugi/CnCpp): Systems programming foundations in C and C++.
-- 🧠 `kwanzaLLM`: A journey into prompt engineering and language model training.
-- 🖱️ [`Bash_scripts`](https://github.com/P.M.-Ngugi/Bash_scripts): A review and walkthrough of scripting with Bash.
-- 🌐 [`WebDev`](https://github.com/P.M.-Ngugi/WebDev): Front-end and HTML/CSS experiments.
-- 📊 [`DS_Collections`](https://github.com/P.M.-Ngugi/DS_Collections): Explorations in data science with Python and notebooks.
-
----
-
-## 🧠 Interests
-
-- Cybersecurity & vulnerability research  
-- Systems & network programming (C, Bash, Shell)  
-- GUI design and Python app development  
-- Large Language Models & AI  
-- Forensics & secure infrastructure
-
----
-
-## 🚀 Let’s Connect
-
-If you’re interested in collaborating, learning more about cybersecurity, or building cool open tools, feel free to reach out via GitHub or follow my projects.
-
-> _“Code hard. Stay curious. Break things to understand them.”_
-
----
-
-
+    <section>
+      <h2>About Me</h2>
+      <p>
+        I'm a passionate engineer focused on security, automation, and building open tools.
+        From vulnerability research to full-stack dev and prompt engineering, I love digging deep into how systems work.
+      </p>
+    </section>
+  </main>
+  <footer>
+    <p>© 2025 P.M. Ngugi | <a href="https://github.com/P.M.-Ngugi">GitHub</a></p>
+  </footer>
+</body>
+</html>
