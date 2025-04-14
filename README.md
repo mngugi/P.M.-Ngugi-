@@ -1,6 +1,7 @@
 <!-- Optional Profile Image -->
 <p align="center">
- <img src="https://avatars.githubusercontent.com/u/12345678" width="150" alt="P.M. Ngugi" style="border-radius: 50%;">
+ <img src="https://avatars.githubusercontent.com/u/174875606" width="150" alt="P.M. Ngugi" style="border-radius: 50%;">
+
 
 </p>
 
