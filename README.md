@@ -1,6 +1,6 @@
 <!-- Optional Profile Image -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID" width="150" alt="P.M. Ngugi" style="border-radius: 50%;">
+  <img src="https://avatars.githubusercontent.com/u/mngugi" width="150" alt="P.M. Ngugi" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">Hi, I'm P.M. Ngugi 👋</h1>
