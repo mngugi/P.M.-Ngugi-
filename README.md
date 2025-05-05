@@ -1,64 +1,77 @@
-<!-- Optional Profile Image -->
-<p align="center">
- <img src="https://avatars.githubusercontent.com/u/174875606" width="150" alt="P.M. Ngugi" style="border-radius: 50%;">
+# 👋 Hello, I'm P.M. Ngugi
 
+Welcome to my GitHub profile! I'm a passionate **software developer**, **AI researcher**, and **cybersecurity enthusiast**. I actively build and contribute to a wide range of open-source projects focused on:
 
-</p>
-
-<h1 align="center">Hi, I'm P.M. Ngugi 👋</h1>
-
-<p align="center">
-  <i>Building across systems, security, and software — one commit at a time.</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/P.M.-Ngugi">
-    <img src="https://img.shields.io/github/followers/P.M.-Ngugi?label=Follow&style=social" alt="GitHub Followers">
-  </a>
-  <a href="https://github.com/P.M.-Ngugi?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repos-20+-blue" alt="Repositories">
-  </a>
-</p>
+- 🔐 Web security
+- 📈 Data science and analytics
+- 🌐 Web development
+- 🧠 Machine learning
+- 📚 Educational tools
+- 🛠️ Scripting & automation
 
 ---
 
-## 🔧 Featured Repositories
-
-| 📁 Repository | 🔍 Description |
-|--------------|----------------|
-| [`WebVuln`](https://github.com/P.M.-Ngugi/WebVuln) | Documenting 100+ web vulnerabilities with testing tools and mitigations |
-| [`GUI-in-Python`](https://github.com/P.M.-Ngugi/GUI-in-Python) | Python GUI applications using Tkinter and Jupyter |
-| [`ML_Cybersec`](https://github.com/P.M.-Ngugi/ML_Cybersec) | Applying machine learning in cybersecurity use-cases |
-| [`Python_Collections`](https://github.com/P.M.-Ngugi/Python_Collections-) | A code-rich Python journal — "coding is a way of life" |
-| [`DS_Collections`](https://github.com/P.M.-Ngugi/DS_Collections) | Data science notebooks and analysis |
+## 📦 GitHub Stats
+- 🔢 **Repositories**: 59+ public projects
+- 🛠️ **Primary Languages**: Python, Bash, HTML/CSS/JavaScript, C/C++, Java
+- 🚧 **Current Focus**: Secure digital learning platforms and web vulnerability documentation
 
 ---
 
-## 🧠 Interests & Stack
+## 📁 Featured Repository Categories
 
-- 🛡️ Cybersecurity | Web Vulnerability Research | Forensics  
-- ⚙️ Systems Programming (C, Bash, Shell)  
-- 🖥️ GUI and Desktop Apps (Tkinter, Jupyter, Zenity)  
-- 🤖 LLMs, Prompt Engineering, AI Tools  
-- 🌐 HTML, CSS, JavaScript, React Native, .NET, Kotlin  
-
----
-
-## 🚀 Projects in Progress
-
-- ✅ `kwanzaLLM`: Prompt collections and LLM workflows  
-- 🚧 `TkCollections`: Desktop GUI utilities with Python  
-- 🔍 `Bash_scripts` + `zenity`: Visual Bash scripting tools  
-- 🧪 `Netmondash`: Lightweight HTML-based network monitor  
+| Category | Repositories | Description |
+|---------|--------------|-------------|
+| 🧱 **Web Development** | [WebDev](https://github.com/mngugi/WebDev)<br>[zenity](https://github.com/mngugi/zenity) | Tools and frameworks for frontend/backend development |
+| 🔐 **Web Vulnerabilities** | [WebVuln](https://github.com/mngugi/WebVuln) | A comprehensive documentation of 100+ web vulnerabilities |
+| 📊 **Data Science & Stats** | [SM_Projects](https://github.com/mngugi/SM_Projects)<br>[Statistical-Learning](https://github.com/mngugi/Statistical-Learning) | Exploratory data projects with statistical inference and machine learning |
+| 🤖 **AI & LLM Projects** | [kwanzaLLM](https://github.com/mngugi/kwanzaLLM)<br>[Gemin2.0](https://github.com/mngugi/Gemin2.0) | Custom LLM prototypes and NLP experimentation |
+| 💡 **Educational Content** | [Mathematical-Terms-and-Formulae](https://github.com/mngugi/Mathematical-Terms-and-Formulae-for-Secondary-Schools) | Reference guide for students and educators |
+| ⚙️ **Scripts & Utilities** | [Bash_scripts](https://github.com/mngugi/Bash_scripts)<br>[TkCollections](https://github.com/mngugi/TkCollections) | Bash, GUI automation, system monitors and helpers |
+| 🧮 **Algorithms** | [Algorithms-](https://github.com/mngugi/Algorithms-) | Implementations of classic and modern algorithms in Python |
 
 ---
 
-## 📫 Let's Connect
+## 📚 Topics Covered
 
-- 🧰 GitHub: [@P.M.-Ngugi](https://github.com/P.M.-Ngugi)
-- 💬 Say hi or check out my work. I'm always up for a collab, a review, or building something secure and impactful.
+- 📐 Descriptive & Inferential Statistics  
+- 🔎 Regression Analysis (Linear, Logistic)  
+- 🧪 Hypothesis Testing (t-tests, ANOVA, chi-square)  
+- 📊 Probability Distributions & Bayesian Inference  
+- 📉 Real-world data experiments & insights  
 
 ---
 
-> _"Code hard. Stay curious. Break things to understand them."_  
-> — **P.M. Ngugi**
+## 💬 Quotes That Inspire Me
+
+> *"Statistical thinking will one day be as necessary for efficient citizenship as the ability to read and write."*  
+> — H.G. Wells
+
+> *"Pure mathematics is, in its way, the poetry of logical ideas."*  
+> — Albert Einstein
+
+---
+
+## 📜 License
+
+All repositories are licensed under the [MIT License](https://opensource.org/licenses/MIT) unless otherwise stated.
+
+---
+
+## 🤝 Contributions
+
+Contributions, issues, and feature requests are always welcome!  
+Feel free to check the issues page or open a PR if you want to collaborate. 🚀
+
+---
+
+## 🌍 Connect With Me
+
+| Platform | Link |
+|---------|------|
+| 🔗 GitHub | [@mngugi](https://github.com/mngugi) |
+| 🧑‍💻 Dev.to | [@mngugi](https://dev.to/mngugi) |
+
+---
+
+Thanks for visiting! ⭐ If you find something interesting, give it a star!
