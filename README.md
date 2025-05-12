@@ -12,9 +12,9 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer**, **AI rese
 ---
 
 ## 📦 GitHub Stats
-- 🔢 **Repositories**: 59+ public projects
-- 🛠️ **Primary Languages**: Python, Bash, HTML/CSS/JavaScript, C/C++, Java
-- 🚧 **Current Focus**: Secure digital learning platforms and web vulnerability documentation
+- 🔢 **Repositories**: 59+ public projects.
+- 🛠️ **Primary Languages**: Python, Bash, HTML/CSS/JavaScript, C/C++, Java.
+- 🚧 **Current Focus**: Secure digital learning platforms and web vulnerability documentation.
 
 ---
 
