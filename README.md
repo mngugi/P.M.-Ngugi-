@@ -2,12 +2,12 @@
 
 Welcome to my GitHub profile! I'm a passionate **Software Developer**, **AI researcher**, and **CyberSecurity Enthusiast**. I actively build and contribute to a wide range of open-source projects focused on:
 
-- 🔐 Web security
-- 📈 Data science and analytics
-- 🌐 Web development
-- 🧠 Machine learning
-- 📚 Educational tools
-- 🛠️ Scripting & automation
+- 🔐 Web Security
+- 📈 Data Science and Analytics
+- 🌐 Web Development
+- 🧠 Machine Learning
+- 📚 Educational Tools
+- 🛠️ Scripting & Automation
 
 ---
 
