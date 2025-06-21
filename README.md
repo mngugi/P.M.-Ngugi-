@@ -1,4 +1,4 @@
-# 👋 Hello, I'm P.M. Ngugi
+#  Hello, 👋 I'm P.M. Ngugi
 
 Welcome to my GitHub profile! I'm a passionate **Software Developer**, **AI researcher**, and **CyberSecurity Enthusiast**. I actively build and contribute to a wide range of open-source projects focused on:
 
